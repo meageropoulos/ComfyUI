@@ -1,5 +1,7 @@
 <div align="center">
 
+Credit: https://github.com/Isi-dev/ComfyUI
+
 # ComfyUI
 **The most powerful and modular visual AI engine and application.**
 
